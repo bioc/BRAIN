@@ -5,6 +5,24 @@ year <- sub(".*(2[[:digit:]]{3})-.*", "\\1", desc$Date)
 vers <- paste("R package version", desc$Version)
 
 
+
+
+citEntry(entry="Article",
+         title="BRAIN: A Universal Tool for High-Throughput Calculations of the Isotopic Distribution for Mass Spectrometry",
+         author=personList(as.person("P. Dittwald"),
+  		    	   as.person("J. Claesen"),	
+                           as.person("T. Burzykowski"),
+                           as.person("D. Valkenborg"),
+			   as.person("A. Gambin"),	
+                           ),
+         journal="Analytical Chemistry",        
+	 year = "2013",
+         textVersion =
+             paste("Dittwald P, Claesen J, Burzykowski T, Valkenborg D, Gambin A. BRAIN: a universal tool for high-throughput calculations of the isotopic distribution for mass spectrometry. Anal Chem. 2013 Feb 19;85(4):1991-4. doi: 10.1021/ac303439m",
+                   sep=""))
+
+
+
 citEntry(entry="Article",
          title="An efficient method to calculate the aggregated isotopic distribution and exact center-masses",
          author=personList(as.person("J. Claesen"),
@@ -12,13 +30,14 @@ citEntry(entry="Article",
                            as.person("T. Burzykowski"),
                            as.person("D. Valkenborg") 
                            ),
-         journal="JASMS",        
+         journal="J Am Soc Mass Spectrom",        
 	 year = "2012",
          textVersion =
              paste("Claesen J., Dittwald P., Burzykowski T. and Valkenborg D. An efficient method to calculate
-the aggregated isotopic distribution and exact center-masses. JASMS, 2012, doi:10.1007/
+the aggregated isotopic distribution and exact center-masses. J Am Soc Mass Spectrom, 2012 Apr;23(4):753-63, doi:10.1007/
 s13361-011-0326-2",
                    sep=""))
+
                    
 citFooter("To obtain the references in BibTex format, enter",
           "'toBibtex(citation(\"fastseg\"))'")
