@@ -10,7 +10,7 @@ This package implements BRAIN (Baffling Recursive Algorithm for Isotope distribu
 especially useful for large molecules due to its advantageous scaling properties. 
 This version of the package provides functions for calculating the aggregated isotopic distribution and center-masses masses for 
 each aggregated isotopic variant for chemical components built from carbon, hydrogen, oxygen, nitrogen and sulfur (e.g. peptides). The natural abundances and 
-molecular masses for stable isotopes of C, H, N, O, S are taken from IUPAC 1997 [Rosm]. 
+molecular masses for stable isotopes of C, H, N, O, S are taken from IUPAC 1997 [c.f. Rosm, Clae_reply]. 
 }
 \details{
 \tabular{ll}{
@@ -29,7 +29,10 @@ Maintainer: Piotr Dittwald <piotr.dittwald@mimuw.edu.pl>
 }
 \references{
 [Clae] Claesen J., Dittwald P., Burzykowski T. and Valkenborg D. An efficient method to calculate 
-the aggregated isotopic distribution and exact center-masses. JASMS, 2012, doi:10.1007/s13361-011-0326-2
+the aggregated isotopic distribution and exact center-masses. JASMS, 2012, 23(4):753-63, doi:10.1007/s13361-011-0326-2
+
+[Clae_reply] Claesen J., Dittwald P., Burzykowski T. and Valkenborg D. 
+'Reply to the Comment on: “An Efficient Method to Calculate the Aggregated Isotopic Distribution and Exact Center-Masses” by Jürgen Claesen,  Piotr Dittwald, Tomasz Burzykowski, Dirk Valkenborg, J. Am. Soc. Mass Spectrom . 23, 753–763 (2012)', Journal of The American Society for Mass Spectrometry, 23(10): 1828-1829, 2012. 
 
 [Macd] Macdonald I.G., Symmetric functions and Hall polynomials / by I. G. Macdonald. Clarendon Press; Oxford University Press, Oxford : New York, 1979.
 
