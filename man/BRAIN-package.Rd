@@ -32,7 +32,7 @@ Maintainer: Piotr Dittwald <piotr.dittwald@mimuw.edu.pl>
 the aggregated isotopic distribution and exact center-masses. JASMS, 2012, 23(4):753-63, doi:10.1007/s13361-011-0326-2
 
 [Clae_reply] Claesen J., Dittwald P., Burzykowski T. and Valkenborg D. 
-'Reply to the Comment on: “An Efficient Method to Calculate the Aggregated Isotopic Distribution and Exact Center-Masses” by Jürgen Claesen,  Piotr Dittwald, Tomasz Burzykowski, Dirk Valkenborg, J. Am. Soc. Mass Spectrom . 23, 753–763 (2012)', Journal of The American Society for Mass Spectrometry, 23(10): 1828-1829, 2012. 
+'Reply to the Comment on: "An Efficient Method to Calculate the Aggregated Isotopic Distribution and Exact Center-Masses" by J\"{u}rgen Claesen,  Piotr Dittwald, Tomasz Burzykowski, Dirk Valkenborg, J. Am. Soc. Mass Spectrom . 23, 753-763 (2012)', Journal of The American Society for Mass Spectrometry, 23(10): 1828-1829, 2012. 
 
 [Macd] Macdonald I.G., Symmetric functions and Hall polynomials / by I. G. Macdonald. Clarendon Press; Oxford University Press, Oxford : New York, 1979.
 
