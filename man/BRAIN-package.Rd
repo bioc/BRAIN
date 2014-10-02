@@ -29,7 +29,12 @@ Maintainer: Piotr Dittwald <piotr.dittwald@mimuw.edu.pl>
 }
 \references{
 [Clae] Claesen J., Dittwald P., Burzykowski T. and Valkenborg D. An efficient method to calculate 
-the aggregated isotopic distribution and exact center-masses. JASMS, 2012, doi:10.1007/s13361-011-0326-2
+the aggregated isotopic distribution and exact center-masses. Journal of The American Society for Mass Spectrometry, 23(4):753-763, 2012.
+
+[Clae_reply] Claesen J., Dittwald P., Burzykowski T. and Valkenborg D. 
+'Reply to the Comment on: "An Efficient Method to Calculate the Aggregated Isotopic Distribution and Exact Center-Masses" by J\"{u}rgen Claesen,  Piotr Dittwald, Tomasz Burzykowski, Dirk Valkenborg, J. Am. Soc. Mass Spectrom. 23, 753-763 (2012)', Journal of The American Society for Mass Spectrometry, 23(10): 1828-1829, 2012. 
+
+[Ditt] Dittwald P, Claesen J, Burzykowski T, Valkenborg D, Gambin A. BRAIN: a universal tool for high-throughput calculations of the isotopic distribution for mass spectrometry. Analytical Chemistry, 85(4): 1991-1994, 2013. 
 
 [Macd] Macdonald I.G., Symmetric functions and Hall polynomials / by I. G. Macdonald. Clarendon Press; Oxford University Press, Oxford : New York, 1979.
 
